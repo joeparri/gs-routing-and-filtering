@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: bookservice
+
+server:
+  port: 8090

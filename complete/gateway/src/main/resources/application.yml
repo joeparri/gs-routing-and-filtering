@@ -1,0 +1,4 @@
+ribbon:
+  eureka:
+    enable: false
+
